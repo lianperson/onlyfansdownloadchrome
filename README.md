@@ -1,5 +1,5 @@
 # onlyfans-download-chrome
-Extension chrome to download all files of the site onlyfans
+Extension chrome to download all files of the site extension.
 
 
 ### Mute tab, after execute the script.
